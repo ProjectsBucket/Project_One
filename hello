@@ -1,0 +1,6 @@
+class Maze{
+Maze(){
+  System.out.println("hello");
+}
+
+}
